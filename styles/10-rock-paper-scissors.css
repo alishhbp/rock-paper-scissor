@@ -39,10 +39,10 @@ body {
   .move-button {
     background-color: transparent;
     border: 3px solid white;
-    width: 90px;
-    height: 90px;
-    border-radius: 45px;
-    margin-right: 7px;
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin-right: 5px;
     cursor: pointer;
   }
 }
