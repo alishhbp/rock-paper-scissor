@@ -45,5 +45,8 @@ body {
     margin-right: 5px;
     cursor: pointer;
   }
+ .move-icon {
+    height: 35px;
+  }  
 }
 
